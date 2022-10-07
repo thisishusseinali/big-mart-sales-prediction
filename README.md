@@ -1,2 +1,1 @@
-# big-mart-sales-prediction
-big-mart-sales-prediction
+# Big Mart Sales Prediction
